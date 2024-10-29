@@ -3,8 +3,6 @@ logo: "/images/ish.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 A driven student with a background in STEM, Machine Learning, and Computer Engineering, experienced in building forecasting models with statistical ML techniques. I’m passionate about Aerospace and Robotics Engineering, continually expanding my knowledge in these fields. 
 <br><br>
-I envision applying AI, ML, and Generative AI across engineering disciplines to advance technology for the welfare of society
-<br></br>
 <a href="https://www.linkedin.com/in/ish-talegaonkar-5b9373251/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
