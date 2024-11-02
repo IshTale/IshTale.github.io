@@ -2,7 +2,7 @@
 
 ---
 
-### CAT 1 
+### CAT 6 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
