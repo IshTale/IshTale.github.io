@@ -36,3 +36,8 @@
 - [Data Structure & Algorithms](https://github.com/IshTale/C_codes)
 - [Euler’s Method Implementation](http://example.com/)
 
+---
+### Awards and Honors
+
+-[Character Trait of Responsibility](/ctr.md)
+-[Member of National Society of High School Scholars Community]
