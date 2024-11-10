@@ -16,6 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Research
+
+- [Researcher NBA Prediction Model](http://example.com/)
+---
 
 ### Category Name 2
 
