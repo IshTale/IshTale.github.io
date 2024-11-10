@@ -28,6 +28,9 @@
 - [Tutor 425 Tutoring:](http://example.com/)
 
 ---
+### Projects
 
-
+- [Variational Quantum Eigensolver(VQE)]
+- [Data Structure & Algorithms]
+- [Euler’s Method Implementation]
 
