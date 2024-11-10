@@ -5,15 +5,12 @@
 ### Professional Experience 
 
 [AI Engineer Intern Syncopation AI](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [AI Program Design Intern Pilot City](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [AI Research & Development Intern Pilot city](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Research
@@ -21,13 +18,14 @@
 - [Researcher NBA Prediction Model](http://example.com/)
 ---
 
-### Category Name 2
+### Volunteer & Extracurricular Activities
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Student Advisor AI Implementation committee PUSD](http://example.com/)
+- [Founder & Leader AI Club](http://example.com/)
+- [Machine Learning Tutor Code 4 Tomorrow](http://example.com/)
+- [Student George Mason University Envision Experience](http://example.com/)
+- [Lead Editor, Writer Newspaper Club](http://example.com/)
+- [Tutor 425 Tutoring:](http://example.com/)
 
 ---
 
