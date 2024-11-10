@@ -1,31 +1,34 @@
-## This can be your internal website page / project page
+## AI Engineer Intern Syncopation AI
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Trained a custom dataset and fine-tuned object detection models for transparent objects, a challenging domain that required advanced techniques and optimization. Leveraged state-of-the-art technologies like YOLOv8 and Detectron2, implementing hyperparameter tuning to enhance the model's accuracy by 30%..
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+In the project, I hypothesized that limited data for transparent object detection significantly hindered model accuracy, especially for nuanced features like tubes and thin edges. This insight led to customized data preparation and strategic data augmentation to address these challenges
 
-```javascript
-if (isAwesome){
-  return true
-}
+```python
+# Hypothesis testing example in Python for model improvement
+if "data_augmentation" in techniques_used:
+    accuracy += 0.1  # Approximate improvement observed
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
+Validated the assumptions for each model, especially regarding data distribution and the model's handling of transparency. Assessed training consistency and model overfitting through cross-validation and statistical metrics.
+
+```python
+# Check for overfitting using validation set
+if validation_accuracy < training_accuracy - threshold:
+    tune_hyperparameters()
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Chose YOLOv8 and Detectron2 based on their suitability for complex object detection. Applied cross-entropy loss, intersection-over-union (IoU) metrics, and grid search for hyperparameter tuning to maximize model precision.
+<img src="images/transparent_object_model.jpg?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The project highlighted the need for a more extensive, diverse dataset to improve detection of transparent objects further. Recommendations included targeted data collection to better capture edges and fine details in transparent materials.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
