@@ -1,4 +1,4 @@
----
+
 ## Activity Developer and AI Research Intern - Pilot City
 **Project description:** Researched and developed frameworks for using ChatGPT to generate creative, engaging educational activities across various subjects and age groups. Designed and tested activities to align with client needs, ensuring they met educational objectives and engagement standards. Utilized Vue and JavaScript to implement and refine activity interfaces.
 ### 1. Suggest hypotheses about the causes of observed phenomena
@@ -22,4 +22,4 @@ Leveraged ChatGPT’s API to automate activity generation. Integrated Vue and Ja
 ### 4. Provide a basis for further data collection through surveys or experiments
 Recommended future data collection on user engagement, activity completion rates, and client satisfaction to continuously refine prompt frameworks. This data supports further improvements in AI-driven activity creation.
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
----
+
