@@ -1,5 +1,8 @@
 title: Ish Talegaonkar # your name (or website title) here
 logo: "/images/ish.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A passionate and inquisitive student with a strong foundation in STEM, Machine Learning, and Computer Engineering, holding a 3.6/4.0 GPA. I have hands-on experience creating forecasting models with statistical ML techniques to enhance predictive accuracy. My high school studies in Aerospace Engineering and current pursuit of Robotics Engineering fuel my ambition to apply advanced AI and generative AI across engineering disciplines, envisioning a future where AI-driven solutions contribute to human and societal well-being.
+  <br><br>
   <a href="https://www.linkedin.com/in/ish-talegaonkar-5b9373251/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
