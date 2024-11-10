@@ -13,9 +13,11 @@
 - [AI Research & Development Intern Pilot city](/pilotCity2.md)
 
 ---
+
 ### Research
 
 - [Researcher NBA Prediction Model](http://example.com/)
+  
 ---
 
 ### Volunteer & Extracurricular Activities
