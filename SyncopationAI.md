@@ -27,7 +27,7 @@ if validation_accuracy < training_accuracy - threshold:
 Chose YOLOv8 and Detectron2 based on their suitability for complex object detection. Applied cross-entropy loss, intersection-over-union (IoU) metrics, and grid search for hyperparameter tuning to maximize model precision.
 <img src="images/transparent_object_model.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. A basis for further data collection through surveys or experiments
 
 The project highlighted the need for a more extensive, diverse dataset to improve detection of transparent objects further. Recommendations included targeted data collection to better capture edges and fine details in transparent materials.
 
