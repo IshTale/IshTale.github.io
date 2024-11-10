@@ -2,17 +2,17 @@
 
 ---
 
-### CAT 6 
+### Professional Experience 
 
-[Syncopation AI](/sample_page)
+[AI Engineer Intern Syncopation AI](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AI Program Design Intern Pilot City](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[AI Research & Development Intern Pilot city](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
