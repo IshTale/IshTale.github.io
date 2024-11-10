@@ -4,7 +4,7 @@
 
 ### Professional Experience 
 
-- [AI Engineer Intern Syncopation AI](/sample)
+- [AI Engineer Intern Syncopation AI](/SyncopationAI)
 
 ---
 - [AI Program Design Intern Pilot City](/pdf/sample_presentation.pdf)
