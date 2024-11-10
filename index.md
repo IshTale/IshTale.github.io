@@ -40,4 +40,4 @@
 ### Awards and Honors
 
 - [Character Trait of Responsibility](/ctr.md)
-- [Member of National Society of High School Scholars Community]
+- [Member of National Society of High School Scholars Community](https://www.nshss.org/)
