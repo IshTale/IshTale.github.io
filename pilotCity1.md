@@ -15,9 +15,9 @@ Validated that template-based code generation would be reliable across various u
 if template_quality_score > threshold:
     code_output_consistent = True
 ```
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Appropriate statistical tools and techniques
 Leveraged AI-based code generation models trained on specific programming patterns. Used Figma to design intuitive user templates, considering usability metrics to ensure the designs met user expectations.
 <img src="images/ai_program_automation.jpg?raw=true"/>
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. A basis for further data collection through surveys or experiments
 Suggested ongoing data collection on user feedback and program usage metrics to refine the templates and improve automation. Future data can help optimize template selection and assess the impact of the AI-driven automation on user productivity.
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
