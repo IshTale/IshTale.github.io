@@ -23,4 +23,4 @@ Provided mentorship and personalized guidance to help students explore their spe
 
 **Outreach and Awareness:** Promoted AI knowledge within the broader student body, raising awareness of AI’s potential and challenges. 
 Organized events and demonstrations to showcase club projects, inspiring other students to explore AI and technology fields.
-By founding and leading this AI Club, you have empowered students to engage with AI responsibly and develop foundational technical skills, fostering a community of informed and ethically aware young technologists.
+By founding and leading this AI Club, I have empowered students to engage with AI responsibly and develop foundational technical skills, fostering a community of informed and ethically aware young technologists.
