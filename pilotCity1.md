@@ -1,6 +1,6 @@
 ## AI Program Designer Intern - Pilot City
 **Project description:** Developed an automated solution enabling instant creation of publishable programs tailored to user needs, powered by AI-driven code generation based on user-selected templates. Also contributed unique design elements using Figma, integrating them into the program’s existing database for a streamlined user experience.
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Hypotheses about the causes of observed phenomena
 Hypothesized that manually creating custom programs for users was time-intensive and error-prone. Automation through AI-powered code generation could streamline this process, improving efficiency and reducing human error.
 ```python
 # Hypothetical process automation in Python
