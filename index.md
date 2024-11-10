@@ -10,7 +10,7 @@
 - [AI Program Design Intern Pilot City](/pilotCity1.md)
 
 ---
-- [AI Research & Development Intern Pilot city](http://example.com/)
+- [AI Research & Development Intern Pilot city](/pilotCity2.md)
 
 ---
 ### Research
