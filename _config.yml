@@ -3,7 +3,7 @@ logo: "/images/ish.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-<a href="https://www.linkedin.com/in/ish-talegaonkar-5b9373251/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ish-talegaonkar-5b9373251/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
