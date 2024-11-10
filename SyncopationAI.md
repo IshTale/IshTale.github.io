@@ -1,6 +1,6 @@
 ## AI Engineer Intern Syncopation AI
 
-**Project description:** Trained a custom dataset and fine-tuned object detection models for transparent objects, a challenging domain that required advanced techniques and optimization. Leveraged state-of-the-art technologies like YOLOv8 and Detectron2, implementing hyperparameter tuning to enhance the model's accuracy by 30%..
+**Project description:** Trained a custom dataset and fine-tuned object detection models for transparent objects, a challenging domain that required advanced techniques and optimization. Leveraged state-of-the-art technologies like YOLOv8 and Detectron2, implementing hyperparameter tuning to enhance the model's accuracy by 30%.
 
 ### 1. Hypotheses about the causes of observed phenomena
 
