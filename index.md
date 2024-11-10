@@ -30,7 +30,7 @@
 ---
 ### Projects
 
-- [Variational Quantum Eigensolver(VQE)](http://example.com/)
-- [Data Structure & Algorithms](http://example.com/)
+- [Variational Quantum Eigensolver(VQE)](https://github.com/IshTale/Quantum)
+- [Data Structure & Algorithms](https://github.com/IshTale/C_codes)
 - [Euler’s Method Implementation](http://example.com/)
 
