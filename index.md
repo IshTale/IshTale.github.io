@@ -16,7 +16,7 @@
 
 ### Research
 
-- [Researcher NBA Prediction Model](http://example.com/)
+- [Researcher NBA Prediction Model](/NBAModel.md)
   
 ---
 
