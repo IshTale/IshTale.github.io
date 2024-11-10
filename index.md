@@ -25,7 +25,7 @@
 - [Student Advisor AI Implementation committee PUSD](/AIImplCommittee.md)
 - [Founder & Leader AI Club](/aiClub.md)
 - [Machine Learning Tutor Code 4 Tomorrow](/mltutor.md)
-- [Lead Editor, Writer Newspaper Club](http://example.com/)
+- [Lead Editor, Writer Newspaper Club](/newspaperclub.md)
 - [Student George Mason University Envision Experience](http://example.com/)
 - [Tutor 425 Tutoring:](http://example.com/)
 
