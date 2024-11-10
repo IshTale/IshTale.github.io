@@ -30,7 +30,7 @@
 ---
 ### Projects
 
-- [Variational Quantum Eigensolver(VQE)]
-- [Data Structure & Algorithms]
-- [Euler’s Method Implementation]
+- [Variational Quantum Eigensolver(VQE)](http://example.com/)
+- [Data Structure & Algorithms](http://example.com/)
+- [Euler’s Method Implementation](http://example.com/)
 
