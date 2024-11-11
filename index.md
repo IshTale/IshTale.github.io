@@ -11,6 +11,8 @@ Trained a custom dataset and fine-tuned object detection models for transparent 
 ---
 - [AI Program Design Intern Pilot City](/pilotCity1.md)
 
+  Developed an automated solution enabling instant creation of publishable programs tailored to user needs, powered by AI-driven code generation based on user-selected templates. Also contributed unique design elements using Figma, integrating them into the program’s existing database for a streamlined user experience.
+
 ---
 - [AI Research & Development Intern Pilot city](/pilotCity2.md)
 
