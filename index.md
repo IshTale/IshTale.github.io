@@ -34,7 +34,7 @@
 
 - [Variational Quantum Eigensolver(VQE)](https://github.com/IshTale/Quantum)
 - [Data Structure & Algorithms](https://github.com/IshTale/C_codes)
-- [Euler’s Method Implementation](http://example.com/)
+- [Euler’s Method Implementation](/euler.md)
 
 ---
 ### Awards and Honors
