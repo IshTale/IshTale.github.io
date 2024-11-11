@@ -23,6 +23,10 @@
 ### Research
 
 - [Researcher NBA Prediction Model](/NBAModel.md)
+
+  Conducted a comprehensive analysis of NBA player performance data, with mentorship from Maria Konte, a research scientist at Georgia Tech. Focused on the Player Efficiency Rating (PER) metric and developed a predictive model using linear regression to forecast players' future performance. The model aims to assist in player selection and draft decisions by determining relationships between key player statistics and PER.
+
+**GitHub Repository:** [NBA Prediction Model](https://github.com/IshTale/reasearch)
   
 ---
 
