@@ -6,7 +6,7 @@
 
 - [AI Engineer Intern Syncopation AI](/SyncopationAI.md)
 
-Trained a custom dataset and fine-tuned object detection models for transparent objects, a challenging domain that required advanced techniques and optimization. Leveraged state-of-the-art technologies like YOLOv8 and Detectron2, implementing hyperparameter tuning to enhance the model's accuracy by 30%.
+  Trained a custom dataset and fine-tuned object detection models for transparent objects, a challenging domain that required advanced techniques and optimization. Leveraged state-of-the-art technologies like YOLOv8 and Detectron2, implementing hyperparameter tuning to enhance the model's accuracy by 30%.
 
 ---
 - [AI Program Design Intern Pilot City](/pilotCity1.md)
@@ -15,6 +15,8 @@ Trained a custom dataset and fine-tuned object detection models for transparent 
 
 ---
 - [AI Research & Development Intern Pilot city](/pilotCity2.md)
+
+  Researched and developed frameworks for using ChatGPT to generate creative, engaging educational activities across various subjects and age groups. Designed and tested activities to align with client needs, ensuring they met educational objectives and engagement standards. Utilized Vue and JavaScript to implement and refine activity interfaces.
 
 ---
 
