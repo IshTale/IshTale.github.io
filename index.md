@@ -36,7 +36,7 @@
 - [Machine Learning Tutor Code 4 Tomorrow](/mltutor.md)
 - [Lead Editor, Writer Newspaper Club](/newspaperclub.md)
 - [Student George Mason University Envision Experience](/georgeMason.md)
-- [Tutor 425 Tutoring:](/425.md)
+- [Tutor 425 Tutoring](/425.md)
 
 ---
 ### Projects
